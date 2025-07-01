@@ -4,7 +4,7 @@ import logo2 from "../Assests/logo2.svg";
 export default function Header() {
   return (
     <header className="bg-gray-900 text-white">
-      <div className="max-w-7xl mx-auto px-4 py-3">
+      <div className="max-w-7xl mx-auto px-12 py-4 ">
         <div className="flex items-center justify-between">
           {/* Logo */}
           <div className="flex items-center">
